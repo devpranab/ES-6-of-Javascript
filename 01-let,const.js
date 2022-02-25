@@ -1,5 +1,16 @@
 //let, const - es-6
 
+//var is function scope and let is block scope
+//var is function scope
+// function p(){
+//     var a=5;
+//     console.log(a);
+// }
+
+// // p();
+// console.log(a) //can't access
+
+
 //scope
 /*
 var a = 1;
